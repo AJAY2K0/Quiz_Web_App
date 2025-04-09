@@ -605,4 +605,504 @@ export default [
       "Rahul Dravid",
     ],
   },
+  {
+  id: "gk101",
+  text: "Who invented the World Wide Web?",
+  answers: ["Tim Berners-Lee", "Bill Gates", "Steve Jobs", "Larry Page"]
+},
+{
+  id: "gk102",
+  text: "What does HTTP stand for?",
+  answers: ["HyperText Transfer Protocol", "HighText Transfer Protocol", "Hyper Transfer Text Protocol", "Home Tool Transfer Protocol"]
+},
+{
+  id: "gk103",
+  text: "Which programming language is used for Android development?",
+  answers: ["Java", "Swift", "Python", "C++"]
+},
+{
+  id: "gk104",
+  text: "What is the function of the CPU?",
+  answers: ["Processing instructions", "Displaying graphics", "Storing files", "Power supply control"]
+},
+{
+  id: "gk105",
+  text: "Who invented the first mobile phone?",
+  answers: ["Martin Cooper", "Steve Jobs", "Alexander Graham Bell", "Elon Musk"]
+},
+{
+  id: "gk106",
+  text: "When did the Battle of Plassey take place?",
+  answers: ["1757", "1857", "1803", "1764"]
+},
+{
+  id: "gk107",
+  text: "Who founded the Maurya Empire?",
+  answers: ["Chandragupta Maurya", "Ashoka", "Harshavardhana", "Bimbisara"]
+},
+{
+  id: "gk108",
+  text: "What movement was launched by Gandhi in 1942?",
+  answers: ["Quit India Movement", "Non-Cooperation Movement", "Civil Disobedience", "Swadeshi Movement"]
+},
+{
+  id: "gk109",
+  text: "Who was the last Governor-General of independent India?",
+  answers: ["C. Rajagopalachari", "Lord Mountbatten", "Dr. Rajendra Prasad", "Sardar Patel"]
+},
+{
+  id: "gk110",
+  text: "Which dynasty built the Khajuraho temples?",
+  answers: ["Chandela", "Maurya", "Gupta", "Chola"]
+},
+{
+  id: "gk111",
+  text: "What does GDP stand for?",
+  answers: ["Gross Domestic Product", "General Domestic Product", "Global Domestic Production", "Gross Developed Population"]
+},
+{
+  id: "gk112",
+  text: "Which article of the Constitution deals with President’s rule?",
+  answers: ["Article 356", "Article 370", "Article 365", "Article 123"]
+},
+{
+  id: "gk113",
+  text: "Who presents the Union Budget of India?",
+  answers: ["Finance Minister", "Prime Minister", "President", "RBI Governor"]
+},
+{
+  id: "gk114",
+  text: "What is the full form of NITI Aayog?",
+  answers: ["National Institution for Transforming India", "New India Task Initiative", "National Industrial and Trade Initiative", "National Innovation and Technology Institution"]
+},
+{
+  id: "gk115",
+  text: "Which is the central bank of India?",
+  answers: ["RBI", "SBI", "ICICI", "NABARD"]
+},
+{
+  id: "gk116",
+  text: "Who is the Chief Justice of India as of 2025?",
+  answers: ["D. Y. Chandrachud", "N. V. Ramana", "U. U. Lalit", "Arun Mishra"]
+},
+{
+  id: "gk117",
+  text: "Which country recently joined BRICS in 2024?",
+  answers: ["Egypt", "Argentina", "Bangladesh", "Iran"]
+},
+{
+  id: "gk118",
+  text: "What is the name of ISRO’s latest moon mission (2023)?",
+  answers: ["Chandrayaan-3", "Gaganyaan", "Vikram-2", "LunarX"]
+},
+{
+  id: "gk119",
+  text: "Who won the Nobel Peace Prize in 2023?",
+  answers: ["Narges Mohammadi", "Greta Thunberg", "Volodymyr Zelenskyy", "Malala Yousafzai"]
+},
+{
+  id: "gk120",
+  text: "Which Indian state won the Swachh Bharat ranking in 2024?",
+  answers: ["Madhya Pradesh", "Gujarat", "Kerala", "Tamil Nadu"]
+},
+{
+  id: "gk121",
+  text: "Who wrote 'The Discovery of India'?",
+  answers: ["Jawaharlal Nehru", "B. R. Ambedkar", "Mahatma Gandhi", "Sarvepalli Radhakrishnan"]
+},
+{
+  id: "gk122",
+  text: "What is the pen name of Munshi Premchand?",
+  answers: ["Nawab Rai", "Prem Das", "Hari Lal", "M. Chandra"]
+},
+{
+  id: "gk123",
+  text: "Which book starts with 'Call me Ishmael'?",
+  answers: ["Moby Dick", "War and Peace", "Great Expectations", "To the Lighthouse"]
+},
+{
+  id: "gk124",
+  text: "Who authored 'Wings of Fire'?",
+  answers: ["A. P. J. Abdul Kalam", "Vikram Sarabhai", "Narendra Modi", "C. V. Raman"]
+},
+{
+  id: "gk125",
+  text: "Who wrote the novel 'Train to Pakistan'?",
+  answers: ["Khushwant Singh", "R. K. Narayan", "Arundhati Roy", "Mulk Raj Anand"]
+},
+{
+  id: "gk126",
+  text: "Who won the Oscar for Best Actor in 2023?",
+  answers: ["Brendan Fraser", "Austin Butler", "Colin Farrell", "Paul Mescal"]
+},
+{
+  id: "gk127",
+  text: "Which Indian movie was nominated for Best International Feature in 2023?",
+  answers: ["RRR", "The Elephant Whisperers", "Lagaan", "Gully Boy"]
+},
+{
+  id: "gk128",
+  text: "Who directed the movie 'Lagaan'?",
+  answers: ["Ashutosh Gowariker", "Karan Johar", "Sanjay Leela Bhansali", "Anurag Kashyap"]
+},
+{
+  id: "gk129",
+  text: "Which Indian actress starred in 'Gangubai Kathiawadi'?",
+  answers: ["Alia Bhatt", "Deepika Padukone", "Kangana Ranaut", "Priyanka Chopra"]
+},
+{
+  id: "gk130",
+  text: "Which show won Best Drama Series at the 2022 Emmys?",
+  answers: ["Succession", "Better Call Saul", "Ozark", "Stranger Things"]
+},
+{
+  id: "gk131",
+  text: "What is the value of π (pi) up to two decimal places?",
+  answers: ["3.14", "3.15", "3.16", "3.13"]
+},
+{
+  id: "gk132",
+  text: "If 5x + 3 = 18, what is x?",
+  answers: ["3", "2", "4", "5"]
+},
+{
+  id: "gk133",
+  text: "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+  answers: ["32", "24", "20", "30"]
+},
+{
+  id: "gk134",
+  text: "What is the square of 12?",
+  answers: ["144", "122", "132", "124"]
+},
+{
+  id: "gk135",
+  text: "How many degrees are there in a right angle?",
+  answers: ["90", "45", "180", "60"]
+},
+{
+  id: "gk136",
+  text: "Who invented the first computer?",
+  answers: ["Charles Babbage", "Alan Turing", "Steve Jobs", "Tim Berners-Lee"]
+},
+{
+  id: "gk137",
+  text: "What does CPU stand for?",
+  answers: ["Central Processing Unit", "Computer Power Unit", "Central Program Utility", "Control Panel Unit"]
+},
+{
+  id: "gk138",
+  text: "What is the name of Apple's virtual assistant?",
+  answers: ["Siri", "Alexa", "Cortana", "Google Assistant"]
+},
+{
+  id: "gk139",
+  text: "Which company developed the Android OS?",
+  answers: ["Google", "Apple", "Microsoft", "IBM"]
+},
+{
+  id: "gk140",
+  text: "Which programming language is primarily used in data science?",
+  answers: ["Python", "Java", "C++", "Ruby"]
+},
+{
+  id: "gk141",
+  text: "Who led the Dandi March?",
+  answers: ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B. R. Ambedkar"]
+},
+{
+  id: "gk142",
+  text: "Which emperor was known as 'Akbar the Great'?",
+  answers: ["Jalaluddin Akbar", "Aurangzeb", "Shah Jahan", "Babur"]
+},
+{
+  id: "gk143",
+  text: "In which year did the Jallianwala Bagh massacre occur?",
+  answers: ["1919", "1920", "1930", "1942"]
+},
+{
+  id: "gk144",
+  text: "Who was the founder of the Sikh religion?",
+  answers: ["Guru Nanak", "Guru Gobind Singh", "Guru Arjan Dev", "Guru Tegh Bahadur"]
+},
+{
+  id: "gk145",
+  text: "Who was the first woman ruler of India?",
+  answers: ["Razia Sultana", "Indira Gandhi", "Rani Laxmi Bai", "Noor Jehan"]
+},
+{
+  id: "gk146",
+  text: "Which tax replaced multiple indirect taxes in India?",
+  answers: ["GST", "Income Tax", "Sales Tax", "Wealth Tax"]
+},
+{
+  id: "gk147",
+  text: "What is the full form of RBI?",
+  answers: ["Reserve Bank of India", "Royal Bank of India", "Regional Bank of India", "Republic Bank of India"]
+},
+{
+  id: "gk148",
+  text: "What is India's national income calculated through?",
+  answers: ["GDP", "NDP", "GNP", "NNP"]
+},
+{
+  id: "gk149",
+  text: "Who is known as the Father of the Indian Constitution?",
+  answers: ["B. R. Ambedkar", "Mahatma Gandhi", "Rajendra Prasad", "Jawaharlal Nehru"]
+},
+{
+  id: "gk150",
+  text: "What is the minimum age for becoming the Prime Minister of India?",
+  answers: ["25", "30", "35", "40"]
+},
+{
+  id: "gk151",
+  text: "Which Indian city hosted the G20 Summit in 2023?",
+  answers: ["New Delhi", "Mumbai", "Bangalore", "Ahmedabad"]
+},
+{
+  id: "gk152",
+  text: "Who is the current CEO of Twitter as of 2025?",
+  answers: ["Linda Yaccarino", "Elon Musk", "Parag Agrawal", "Sundar Pichai"]
+},
+{
+  id: "gk153",
+  text: "Which Indian won a gold medal at the Tokyo Olympics?",
+  answers: ["Neeraj Chopra", "PV Sindhu", "Mary Kom", "Bajrang Punia"]
+},
+{
+  id: "gk154",
+  text: "Which state launched the 'Mukhya Mantri Ladli Behna Yojana'?",
+  answers: ["Madhya Pradesh", "Rajasthan", "Bihar", "Uttar Pradesh"]
+},
+{
+  id: "gk155",
+  text: "Which Indian startup became a unicorn in 2024?",
+  answers: ["Zepto", "Nykaa", "Zomato", "PharmEasy"]
+},
+{
+  id: "gk156",
+  text: "Who wrote 'Godan'?",
+  answers: ["Munshi Premchand", "R. K. Narayan", "Khushwant Singh", "Bankim Chandra"]
+},
+{
+  id: "gk157",
+  text: "Who is the author of 'Midnight's Children'?",
+  answers: ["Salman Rushdie", "Arundhati Roy", "Vikram Seth", "Kiran Desai"]
+},
+{
+  id: "gk158",
+  text: "Which author created the character Sherlock Holmes?",
+  answers: ["Arthur Conan Doyle", "Agatha Christie", "J. K. Rowling", "Dan Brown"]
+},
+{
+  id: "gk159",
+  text: "Which book is written by Arundhati Roy?",
+  answers: ["The God of Small Things", "Interpreter of Maladies", "The Inheritance of Loss", "The White Tiger"]
+},
+{
+  id: "gk160",
+  text: "Who wrote the Mahabharata?",
+  answers: ["Ved Vyasa", "Valmiki", "Tulsidas", "Kalidasa"]
+},
+{
+  id: "gk161",
+  text: "Who played Iron Man in the Marvel movies?",
+  answers: ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth"]
+},
+{
+  id: "gk162",
+  text: "Which Indian web series features a police officer named Hathiram?",
+  answers: ["Paatal Lok", "Sacred Games", "Mirzapur", "Delhi Crime"]
+},
+{
+  id: "gk163",
+  text: "Which movie won Best Picture at the Oscars 2022?",
+  answers: ["CODA", "The Power of the Dog", "Belfast", "Dune"]
+},
+{
+  id: "gk164",
+  text: "Who sang the hit song 'Blinding Lights'?",
+  answers: ["The Weeknd", "Drake", "Ed Sheeran", "Bruno Mars"]
+},
+{
+  id: "gk165",
+  text: "Which Indian actor starred in 'Pushpa: The Rise'?",
+  answers: ["Allu Arjun", "Yash", "Ram Charan", "NTR Jr."]
+},
+{
+  id: "gk166",
+  text: "What is 15% of 200?",
+  answers: ["30", "25", "35", "40"]
+},
+{
+  id: "gk167",
+  text: "Solve: 12 × 8",
+  answers: ["96", "88", "104", "100"]
+},
+{
+  id: "gk168",
+  text: "What is the cube root of 27?",
+  answers: ["3", "9", "2", "4"]
+},
+{
+  id: "gk169",
+  text: "What is the result of 2^5?",
+  answers: ["32", "16", "64", "25"]
+},
+{
+  id: "gk170",
+  text: "If a train runs at 60 km/h, how far will it travel in 2.5 hours?",
+  answers: ["150 km", "120 km", "180 km", "100 km"]
+},
+{
+  id: "gk171",
+  text: "Which organ in the human body is primarily responsible for detoxification?",
+  answers: ["Liver", "Kidney", "Lungs", "Pancreas"]
+},
+{
+  id: "gk172",
+  text: "Who developed the theory of relativity?",
+  answers: ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"]
+},
+{
+  id: "gk173",
+  text: "Which is the largest bone in the human body?",
+  answers: ["Femur", "Tibia", "Humerus", "Pelvis"]
+},
+{
+  id: "gk174",
+  text: "Which vitamin is produced when skin is exposed to sunlight?",
+  answers: ["Vitamin D", "Vitamin C", "Vitamin B12", "Vitamin A"]
+},
+{
+  id: "gk175",
+  text: "What is the chemical formula for water?",
+  answers: ["H2O", "O2", "CO2", "NaCl"]
+},
+{
+  id: "gk176",
+  text: "Which Indian river is the longest?",
+  answers: ["Ganga", "Yamuna", "Godavari", "Narmada"]
+},
+{
+  id: "gk177",
+  text: "What is the capital city of Uttarakhand?",
+  answers: ["Dehradun", "Nainital", "Haridwar", "Mussoorie"]
+},
+{
+  id: "gk178",
+  text: "Which Indian state is known as the 'Spice Garden of India'?",
+  answers: ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"]
+},
+{
+  id: "gk179",
+  text: "Which Indian city is known as the 'City of Lakes'?",
+  answers: ["Udaipur", "Bhopal", "Srinagar", "Nainital"]
+},
+{
+  id: "gk180",
+  text: "Which state has the longest coastline in India?",
+  answers: ["Gujarat", "Andhra Pradesh", "Maharashtra", "Tamil Nadu"]
+},
+{
+  id: "gk181",
+  text: "What is the boiling point of water in Celsius?",
+  answers: ["100°C", "90°C", "80°C", "110°C"]
+},
+{
+  id: "gk182",
+  text: "Who is known as the father of modern physics?",
+  answers: ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Niels Bohr"]
+},
+{
+  id: "gk183",
+  text: "Which metal is liquid at room temperature?",
+  answers: ["Mercury", "Iron", "Gold", "Aluminum"]
+},
+{
+  id: "gk184",
+  text: "Which gas is used for inflating balloons?",
+  answers: ["Helium", "Hydrogen", "Nitrogen", "Oxygen"]
+},
+{
+  id: "gk185",
+  text: "Which country hosted the FIFA World Cup in 2022?",
+  answers: ["Qatar", "Russia", "Brazil", "Germany"]
+},
+{
+  id: "gk186",
+  text: "How many players are on the field in a soccer team?",
+  answers: ["11", "10", "9", "12"]
+},
+{
+  id: "gk187",
+  text: "Who holds the record for most goals in international football?",
+  answers: ["Cristiano Ronaldo", "Lionel Messi", "Pele", "Miroslav Klose"]
+},
+{
+  id: "gk188",
+  text: "Which Grand Slam is played on clay courts?",
+  answers: ["French Open", "Wimbledon", "US Open", "Australian Open"]
+},
+{
+  id: "gk189",
+  text: "In which sport would you perform a slam dunk?",
+  answers: ["Basketball", "Tennis", "Football", "Cricket"]
+},
+{
+  id: "gk190",
+  text: "Which logic gate returns true only when both inputs are true?",
+  answers: ["AND", "OR", "XOR", "NOT"]
+},
+{
+  id: "gk191",
+  text: "What is the binary equivalent of decimal 10?",
+  answers: ["1010", "1100", "1110", "1001"]
+},
+{
+  id: "gk192",
+  text: "What does HTML stand for?",
+  answers: ["HyperText Markup Language", "HighText Markup Language", "HyperTool Marking Language", "HyperText Markdown Language"]
+},
+{
+  id: "gk193",
+  text: "Which Indian won the Nobel Prize in Economics in 2019?",
+  answers: ["Abhijit Banerjee", "Raghuram Rajan", "Amartya Sen", "Manmohan Singh"]
+},
+{
+  id: "gk194",
+  text: "Who was the first woman to win a Nobel Prize?",
+  answers: ["Marie Curie", "Mother Teresa", "Rosalind Franklin", "Jane Goodall"]
+},
+{
+  id: "gk195",
+  text: "Which two elements make up water?",
+  answers: ["Hydrogen and Oxygen", "Carbon and Oxygen", "Nitrogen and Hydrogen", "Hydrogen and Helium"]
+},
+{
+  id: "gk196",
+  text: "How many bytes are in a kilobyte (KB)?",
+  answers: ["1024", "1000", "512", "2048"]
+},
+{
+  id: "gk197",
+  text: "Who was the first Indian in space?",
+  answers: ["Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Vikram Sarabhai"]
+},
+{
+  id: "gk198",
+  text: "Which animal is known as the 'Ship of the Desert'?",
+  answers: ["Camel", "Horse", "Elephant", "Donkey"]
+},
+{
+  id: "gk199",
+  text: "Which planet is known as the Red Planet?",
+  answers: ["Mars", "Jupiter", "Saturn", "Venus"]
+},
+{
+  id: "gk200",
+  text: "Which Indian won the Booker Prize for 'The White Tiger'?",
+  answers: ["Aravind Adiga", "Arundhati Roy", "Salman Rushdie", "Kiran Desai"]
+}
 ];
