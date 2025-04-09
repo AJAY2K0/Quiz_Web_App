@@ -24,7 +24,7 @@ export default function Quiz() {
 
   function handleRestart() {
     setUserAnswers([]);
-    setResetKey((prev) => prev + 1); // force re-render
+    setResetKey((prev) => prev + 1);
     setQuestionCount(null);
   }
 
