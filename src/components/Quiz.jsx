@@ -1,54 +1,3 @@
-// import { useCallback, useState, useRef } from "react";
-// import Questions from "../questions.js";
-// import Summary from "./Summary.jsx";
-// import Question from "./Question.jsx";
-
-// function getRandomQuestions(questions, count) {
-//   const shuffled = [...questions].sort(() => Math.random() - 0.5);
-//   return shuffled.slice(0, count);
-// }
-
-// export default function Quiz() {
-//   const [userAnswers, setUserAnswers] = useState([]);
-
-//   const questionSet = useRef(getRandomQuestions(Questions, 10));
-
-//   const currentQuestionIndex = userAnswers.length;
-
-//   const quizComplete = currentQuestionIndex === questionSet.current.length;
-
-//   const handleSelectAnswer = useCallback(function handleSelectAnswer(
-//     selectedAnswer
-//   ) {
-//     setUserAnswers((prevUserAnswer) => {
-//       return [...prevUserAnswer, selectedAnswer];
-//     });
-//   },
-//   []);
-
-//   const handleSkipAnswer = useCallback(() => {
-//     handleSelectAnswer(null);
-//   }, [handleSelectAnswer]);
-
-//   if (quizComplete) {
-//     return (
-//       <Summary userAnswers={userAnswers} questions={questionSet.current} />
-//     );
-//   }
-
-//   return (
-//     <div id="quiz">
-//       <Question
-//         key={currentQuestionIndex}
-//         index={currentQuestionIndex}
-//         onSelectAnswer={handleSelectAnswer}
-//         onSkipAnswer={handleSkipAnswer}
-//         questions={questionSet.current}
-//       />
-//     </div>
-//   );
-// }
-
 import { useCallback, useState, useRef } from "react";
 
 import Questions from "../questions.js";
@@ -72,6 +21,7 @@ export default function Quiz() {
     setQuestionCount(count);
     questionSet.current = getRandomQuestions(Questions, count);
   }
+  console.log(questionSet.current);
 
   function handleRestart() {
     setUserAnswers([]);
