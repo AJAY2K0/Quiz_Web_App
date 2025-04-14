@@ -47,7 +47,7 @@ export default function Summary({ userAnswers, questions, onRestart }) {
         </p>
         <p>
           <span className="number">{IncorrectAnswerPercent}%</span>
-          <span className="text">Incorrext</span>
+          <span className="text">Incorrect</span>
         </p>
         <p>
           <span className="number">{SkippedAnswerPercent}%</span>
