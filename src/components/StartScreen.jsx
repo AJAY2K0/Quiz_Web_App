@@ -2,7 +2,7 @@ import { useState } from "react";
 
 export default function StartScreen({ onStart }) {
   const [count, setCount] = useState(10);
-  const questionNum = [5, 10, 15, 20];
+  const questionNum = [10, 20, 30, 40, 50];
 
   return (
     <div id="start-screen">

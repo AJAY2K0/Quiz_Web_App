@@ -13,12 +13,12 @@ export default function Question({
     isCorrect: null,
   });
 
-  let timer = 10000;
+  let timer = 15000;
   if (answer.selectedAnswer) {
     timer = 1000;
   }
   if (answer.isCorrect !== null) {
-    timer = 2000;
+    timer = 1500;
   }
 
   function handleSelectAnswer(answerText) {
@@ -33,7 +33,7 @@ export default function Question({
       });
       setTimeout(() => {
         onSelectAnswer(answerText);
-      }, 2000);
+      }, 1500);
     }, 1000);
   }
 

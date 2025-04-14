@@ -1280,4 +1280,1769 @@ export default [
       "Kiran Desai",
     ],
   },
+  {
+    id: "gk201",
+    text: "What is the capital of Egypt?",
+    answers: ["Cairo", "Alexandria", "Giza", "Luxor"],
+  },
+  {
+    id: "gk202",
+    text: "Which element has the chemical symbol 'Fe'?",
+    answers: ["Iron", "Fluorine", "Francium", "Fermium"],
+  },
+  {
+    id: "gk203",
+    text: "Which country is famous for inventing pizza?",
+    answers: ["Italy", "France", "USA", "Spain"],
+  },
+  {
+    id: "gk204",
+    text: "What is the largest mammal in the world?",
+    answers: ["Blue Whale", "Elephant", "Hippopotamus", "Giraffe"],
+  },
+  {
+    id: "gk205",
+    text: "Which Indian festival celebrates the triumph of good over evil with bonfires?",
+    answers: ["Holi", "Lohri", "Diwali", "Navratri"],
+  },
+  {
+    id: "gk206",
+    text: "What is the capital city of Spain?",
+    answers: ["Madrid", "Barcelona", "Seville", "Valencia"],
+  },
+  {
+    id: "gk207",
+    text: "Which planet is known for its rings?",
+    answers: ["Saturn", "Jupiter", "Uranus", "Neptune"],
+  },
+  {
+    id: "gk208",
+    text: "What is the primary ingredient in guacamole?",
+    answers: ["Avocado", "Tomato", "Cucumber", "Lettuce"],
+  },
+  {
+    id: "gk209",
+    text: "In which year did World War II end?",
+    answers: ["1945", "1939", "1942", "1950"],
+  },
+  {
+    id: "gk210",
+    text: "Which gas is most abundant in Earth's atmosphere?",
+    answers: ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+  },
+  {
+    id: "gk211",
+    text: "Who was the first woman in space?",
+    answers: [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Kalpana Chawla",
+      "Mae Jemison",
+    ],
+  },
+  {
+    id: "gk212",
+    text: "Which country is known as the Land of a Thousand Lakes?",
+    answers: ["Finland", "Norway", "Canada", "Sweden"],
+  },
+  {
+    id: "gk213",
+    text: "What is the tallest building in the world as of 2025?",
+    answers: ["Burj Khalifa", "Shanghai Tower", "Merdeka 118", "Abraj Al-Bait"],
+  },
+  {
+    id: "gk214",
+    text: "What is the process of plants making food called?",
+    answers: ["Photosynthesis", "Respiration", "Transpiration", "Germination"],
+  },
+  {
+    id: "gk215",
+    text: "What is the capital of South Korea?",
+    answers: ["Seoul", "Busan", "Incheon", "Daegu"],
+  },
+  {
+    id: "gk216",
+    text: "Which scientist proposed the three laws of motion?",
+    answers: ["Isaac Newton", "Albert Einstein", "Galileo", "Nikola Tesla"],
+  },
+  {
+    id: "gk217",
+    text: "Which ocean lies between Africa and Australia?",
+    answers: [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean",
+    ],
+  },
+  {
+    id: "gk218",
+    text: "Which Indian state is famous for tea gardens?",
+    answers: ["Assam", "Kerala", "Punjab", "Gujarat"],
+  },
+  {
+    id: "gk219",
+    text: "What is the main ingredient of traditional Japanese miso soup?",
+    answers: ["Soybean paste", "Seaweed", "Tofu", "Rice"],
+  },
+  {
+    id: "gk220",
+    text: "Which Indian freedom fighter is known for his slogan 'Give me blood and I will give you freedom'?",
+    answers: [
+      "Subhas Chandra Bose",
+      "Bhagat Singh",
+      "Mahatma Gandhi",
+      "Sardar Patel",
+    ],
+  },
+  {
+    id: "gk221",
+    text: "Which part of the brain is responsible for memory?",
+    answers: ["Hippocampus", "Cerebellum", "Medulla", "Amygdala"],
+  },
+  {
+    id: "gk222",
+    text: "Which bird is known for mimicking human speech?",
+    answers: ["Parrot", "Crow", "Sparrow", "Pigeon"],
+  },
+  {
+    id: "gk223",
+    text: "Which mountain range separates Europe from Asia?",
+    answers: ["Ural Mountains", "Himalayas", "Alps", "Andes"],
+  },
+  {
+    id: "gk224",
+    text: "What is the freezing point of water in Fahrenheit?",
+    answers: ["32°F", "0°F", "100°F", "50°F"],
+  },
+  {
+    id: "gk225",
+    text: "Which famous scientist was known for the equation E=mc²?",
+    answers: ["Albert Einstein", "Isaac Newton", "Galileo", "Bohr"],
+  },
+  {
+    id: "gk226",
+    text: "Which festival marks the beginning of the Hindu New Year in Maharashtra?",
+    answers: ["Gudi Padwa", "Diwali", "Ugadi", "Onam"],
+  },
+  {
+    id: "gk227",
+    text: "Which country has the maple leaf on its national flag?",
+    answers: ["Canada", "USA", "UK", "Australia"],
+  },
+  {
+    id: "gk228",
+    text: "Which Indian state has Shillong as its capital?",
+    answers: ["Meghalaya", "Manipur", "Mizoram", "Nagaland"],
+  },
+  {
+    id: "gk229",
+    text: "What is the smallest prime number?",
+    answers: ["2", "1", "3", "0"],
+  },
+  {
+    id: "gk230",
+    text: "Which vitamin helps in blood clotting?",
+    answers: ["Vitamin K", "Vitamin A", "Vitamin D", "Vitamin B12"],
+  },
+  {
+    id: "gk231",
+    text: "Who is the Greek god of the sea?",
+    answers: ["Poseidon", "Zeus", "Apollo", "Hermes"],
+  },
+  {
+    id: "gk232",
+    text: "Which city is known as the 'Big Apple'?",
+    answers: ["New York City", "Los Angeles", "Chicago", "Miami"],
+  },
+  {
+    id: "gk233",
+    text: "How many players are there in a volleyball team?",
+    answers: ["6", "5", "7", "9"],
+  },
+  {
+    id: "gk234",
+    text: "Which insect is known for producing honey?",
+    answers: ["Bee", "Wasp", "Ant", "Butterfly"],
+  },
+  {
+    id: "gk235",
+    text: "Which is the longest-running Broadway musical?",
+    answers: ["The Phantom of the Opera", "Les Misérables", "Cats", "Chicago"],
+  },
+  {
+    id: "gk236",
+    text: "Which is the closest star to Earth?",
+    answers: ["Sun", "Alpha Centauri", "Sirius", "Proxima Centauri"],
+  },
+  {
+    id: "gk237",
+    text: "Which African country is famous for its pyramids?",
+    answers: ["Egypt", "Nigeria", "Kenya", "South Africa"],
+  },
+  {
+    id: "gk238",
+    text: "In which sport is the Ryder Cup contested?",
+    answers: ["Golf", "Tennis", "Cricket", "Baseball"],
+  },
+  {
+    id: "gk239",
+    text: "Which is the largest internal organ in the human body?",
+    answers: ["Liver", "Heart", "Lung", "Kidney"],
+  },
+  {
+    id: "gk240",
+    text: "Who is the author of the 'Harry Potter' series?",
+    answers: [
+      "J. K. Rowling",
+      "Stephen King",
+      "Suzanne Collins",
+      "Rick Riordan",
+    ],
+  },
+  {
+    id: "gk241",
+    text: "What is the currency of Japan?",
+    answers: ["Yen", "Won", "Dollar", "Rupee"],
+  },
+  {
+    id: "gk242",
+    text: "What is the name of the world's largest rainforest?",
+    answers: ["Amazon", "Congo", "Daintree", "Sundarbans"],
+  },
+  {
+    id: "gk243",
+    text: "Which country has the city of Timbuktu?",
+    answers: ["Mali", "Morocco", "Algeria", "Egypt"],
+  },
+  {
+    id: "gk244",
+    text: "What is the national tree of India?",
+    answers: ["Banyan", "Neem", "Peepal", "Mango"],
+  },
+  {
+    id: "gk245",
+    text: "Who is the author of 'Pride and Prejudice'?",
+    answers: [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "George Eliot",
+      "Emily Dickinson",
+    ],
+  },
+  {
+    id: "gk246",
+    text: "What does DNA stand for?",
+    answers: [
+      "Deoxyribonucleic Acid",
+      "Dinucleic Acid",
+      "Deoxyribose Nucleotide Assembly",
+      "Double Nucleic Array",
+    ],
+  },
+  {
+    id: "gk247",
+    text: "Which country gifted the cherry blossoms to the USA?",
+    answers: ["Japan", "China", "South Korea", "Thailand"],
+  },
+  {
+    id: "gk248",
+    text: "Which continent is Madagascar part of?",
+    answers: ["Africa", "Asia", "Australia", "Europe"],
+  },
+  {
+    id: "gk249",
+    text: "What does the Richter scale measure?",
+    answers: ["Earthquakes", "Wind speed", "Temperature", "Rainfall"],
+  },
+  {
+    id: "gk250",
+    text: "What is the term for animals that eat only plants?",
+    answers: ["Herbivores", "Carnivores", "Omnivores", "Scavengers"],
+  },
+  {
+    id: "gk251",
+    text: "Which is the tallest statue in the world?",
+    answers: [
+      "Statue of Unity",
+      "Statue of Liberty",
+      "Christ the Redeemer",
+      "Spring Temple Buddha",
+    ],
+  },
+  {
+    id: "gk252",
+    text: "Which Indian city is called the City of Pearls?",
+    answers: ["Hyderabad", "Mumbai", "Chennai", "Surat"],
+  },
+  {
+    id: "gk253",
+    text: "What is the scientific name of the human species?",
+    answers: [
+      "Homo sapiens",
+      "Homo erectus",
+      "Australopithecus",
+      "Neanderthal",
+    ],
+  },
+  {
+    id: "gk254",
+    text: "Which country has the highest population in the world?",
+    answers: ["China", "India", "USA", "Indonesia"],
+  },
+  {
+    id: "gk255",
+    text: "What is the official language of Brazil?",
+    answers: ["Portuguese", "Spanish", "French", "English"],
+  },
+  {
+    id: "gk256",
+    text: "Which city is known as the fashion capital of the world?",
+    answers: ["Paris", "Milan", "New York", "London"],
+  },
+  {
+    id: "gk257",
+    text: "What is the name of the closest galaxy to the Milky Way?",
+    answers: ["Andromeda", "Whirlpool", "Sombrero", "Black Eye"],
+  },
+  {
+    id: "gk258",
+    text: "Which instrument is used to measure earthquakes?",
+    answers: ["Seismograph", "Barometer", "Anemometer", "Hygrometer"],
+  },
+  {
+    id: "gk259",
+    text: "Which river is the main source of water for Egypt?",
+    answers: ["Nile", "Amazon", "Ganges", "Danube"],
+  },
+  {
+    id: "gk260",
+    text: "What is the largest island in India?",
+    answers: ["Middle Andaman", "Majuli", "Little Andaman", "Rameswaram"],
+  },
+  {
+    id: "gk261",
+    text: "Who was the first Indian woman to win an Olympic medal?",
+    answers: ["Karnam Malleswari", "Mary Kom", "P. T. Usha", "Saina Nehwal"],
+  },
+  {
+    id: "gk262",
+    text: "Which vitamin helps in improving vision?",
+    answers: ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+  },
+  {
+    id: "gk263",
+    text: "What is the national currency of South Korea?",
+    answers: ["Won", "Yen", "Ringgit", "Rupee"],
+  },
+  {
+    id: "gk264",
+    text: "Who wrote the Indian national song 'Vande Mataram'?",
+    answers: [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Premchand",
+      "Sarojini Naidu",
+    ],
+  },
+  {
+    id: "gk265",
+    text: "Which Mughal emperor is buried in Sikandra, Agra?",
+    answers: ["Akbar", "Shah Jahan", "Babur", "Humayun"],
+  },
+  {
+    id: "gk266",
+    text: "Which is the oldest mountain range in India?",
+    answers: ["Aravalli", "Himalayas", "Vindhya", "Satpura"],
+  },
+  {
+    id: "gk267",
+    text: "Who discovered the vaccine for smallpox?",
+    answers: [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+    ],
+  },
+  {
+    id: "gk268",
+    text: "Which part of the plant conducts photosynthesis?",
+    answers: ["Leaves", "Roots", "Stems", "Flowers"],
+  },
+  {
+    id: "gk269",
+    text: "Which city is the headquarters of the United Nations?",
+    answers: ["New York", "Geneva", "Paris", "London"],
+  },
+  {
+    id: "gk270",
+    text: "How many continents are there on Earth?",
+    answers: ["7", "6", "5", "8"],
+  },
+  {
+    id: "gk271",
+    text: "Which ocean surrounds the Maldives?",
+    answers: [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean",
+    ],
+  },
+  {
+    id: "gk272",
+    text: "Which blood cells help in clotting?",
+    answers: ["Platelets", "Red blood cells", "White blood cells", "Plasma"],
+  },
+  {
+    id: "gk273",
+    text: "Which Indian leader is known as 'Punjab Kesari'?",
+    answers: [
+      "Lala Lajpat Rai",
+      "Bhagat Singh",
+      "Bal Gangadhar Tilak",
+      "Sardar Patel",
+    ],
+  },
+  {
+    id: "gk274",
+    text: "Who composed the music for India's national anthem?",
+    answers: [
+      "Rabindranath Tagore",
+      "M. S. Subbulakshmi",
+      "Naushad",
+      "A. R. Rahman",
+    ],
+  },
+  {
+    id: "gk275",
+    text: "Which Indian monument is known as the 'Black Taj Mahal'?",
+    answers: ["Bibi Ka Maqbara", "Charminar", "Qutub Minar", "Gol Gumbaz"],
+  },
+  {
+    id: "gk276",
+    text: "What is the full form of Wi-Fi?",
+    answers: [
+      "Wireless Fidelity",
+      "Wide Frequency",
+      "Wired Fidelity",
+      "Wave Internet Frequency",
+    ],
+  },
+  {
+    id: "gk277",
+    text: "Which animal is known as the king of the jungle?",
+    answers: ["Lion", "Tiger", "Elephant", "Leopard"],
+  },
+  {
+    id: "gk278",
+    text: "Who is the Greek goddess of wisdom?",
+    answers: ["Athena", "Aphrodite", "Hera", "Artemis"],
+  },
+  {
+    id: "gk279",
+    text: "Which Indian city is famous for the Charminar?",
+    answers: ["Hyderabad", "Lucknow", "Jaipur", "Delhi"],
+  },
+  {
+    id: "gk280",
+    text: "Which sport is associated with Wimbledon?",
+    answers: ["Tennis", "Cricket", "Golf", "Football"],
+  },
+  {
+    id: "gk281",
+    text: "Who was the last ruler of the Maurya dynasty?",
+    answers: ["Brihadratha", "Ashoka", "Bindusara", "Chandragupta"],
+  },
+  {
+    id: "gk282",
+    text: "Which state is known for Bihu festival?",
+    answers: ["Assam", "Punjab", "Kerala", "Odisha"],
+  },
+  {
+    id: "gk283",
+    text: "Which fruit has its seeds on the outside?",
+    answers: ["Strawberry", "Apple", "Grapes", "Banana"],
+  },
+  {
+    id: "gk284",
+    text: "Which Indian city is known as the 'Steel City'?",
+    answers: ["Jamshedpur", "Durgapur", "Rourkela", "Bhilai"],
+  },
+  {
+    id: "gk285",
+    text: "Which is the only mammal that can fly?",
+    answers: ["Bat", "Flying Squirrel", "Kangaroo", "Owl"],
+  },
+  {
+    id: "gk286",
+    text: "Which country is called the 'Land of Fire and Ice'?",
+    answers: ["Iceland", "Greenland", "Norway", "Russia"],
+  },
+  {
+    id: "gk287",
+    text: "Which famous landmark is in Agra?",
+    answers: ["Taj Mahal", "Red Fort", "Qutub Minar", "Gateway of India"],
+  },
+  {
+    id: "gk288",
+    text: "What is the fastest land animal?",
+    answers: ["Cheetah", "Leopard", "Tiger", "Horse"],
+  },
+  {
+    id: "gk289",
+    text: "Who is the current Secretary-General of the United Nations (as of 2025)?",
+    answers: [
+      "António Guterres",
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "Amina J. Mohammed",
+    ],
+  },
+  {
+    id: "gk290",
+    text: "Which gas is known as laughing gas?",
+    answers: ["Nitrous Oxide", "Carbon Dioxide", "Oxygen", "Helium"],
+  },
+  {
+    id: "gk291",
+    text: "Which river flows through Paris?",
+    answers: ["Seine", "Thames", "Rhine", "Danube"],
+  },
+  {
+    id: "gk292",
+    text: "What is the square root of 225?",
+    answers: ["15", "20", "10", "18"],
+  },
+  {
+    id: "gk293",
+    text: "Which festival is known as the festival of colors?",
+    answers: ["Holi", "Diwali", "Eid", "Navratri"],
+  },
+  {
+    id: "gk294",
+    text: "What is the chemical symbol of potassium?",
+    answers: ["K", "P", "Pt", "Po"],
+  },
+  {
+    id: "gk295",
+    text: "What is the longest river in India?",
+    answers: ["Ganga", "Godavari", "Yamuna", "Krishna"],
+  },
+  {
+    id: "gk296",
+    text: "Which organ purifies our blood?",
+    answers: ["Kidney", "Liver", "Heart", "Lungs"],
+  },
+  {
+    id: "gk297",
+    text: "Who built the Red Fort in Delhi?",
+    answers: ["Shah Jahan", "Akbar", "Humayun", "Babur"],
+  },
+  {
+    id: "gk298",
+    text: "Which Indian state is known as the 'Land of Five Rivers'?",
+    answers: ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"],
+  },
+  {
+    id: "gk299",
+    text: "Which part of the body has the smallest bone?",
+    answers: ["Ear", "Nose", "Finger", "Toe"],
+  },
+  {
+    id: "gk300",
+    text: "Who wrote 'Romeo and Juliet'?",
+    answers: [
+      "William Shakespeare",
+      "Jane Austen",
+      "Charles Dickens",
+      "Oscar Wilde",
+    ],
+  },
+  {
+    id: "gk301",
+    text: "What is the capital of New Zealand?",
+    answers: ["Wellington", "Auckland", "Christchurch", "Hamilton"],
+  },
+  {
+    id: "gk302",
+    text: "Which scientist is known as the 'father of modern chemistry'?",
+    answers: [
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Dmitri Mendeleev",
+      "Robert Boyle",
+    ],
+  },
+  {
+    id: "gk303",
+    text: "Which planet has the most extensive ring system?",
+    answers: ["Saturn", "Jupiter", "Uranus", "Neptune"],
+  },
+  {
+    id: "gk304",
+    text: "What is the largest continent by land area?",
+    answers: ["Asia", "Africa", "North America", "Europe"],
+  },
+  {
+    id: "gk305",
+    text: "Which element is a noble gas?",
+    answers: ["Helium", "Oxygen", "Hydrogen", "Nitrogen"],
+  },
+  {
+    id: "gk306",
+    text: "Which river is known as the 'Sorrow of Bengal'?",
+    answers: ["Damodar", "Ganges", "Yamuna", "Brahmaputra"],
+  },
+  {
+    id: "gk307",
+    text: "What is the SI unit of force?",
+    answers: ["Newton", "Joule", "Pascal", "Watt"],
+  },
+  {
+    id: "gk308",
+    text: "What does CPU stand for in computing?",
+    answers: [
+      "Central Processing Unit",
+      "Control Power Unit",
+      "Computer Program Unit",
+      "Central Power Unit",
+    ],
+  },
+  {
+    id: "gk309",
+    text: "Which festival is celebrated with kite flying in Gujarat?",
+    answers: ["Uttarayan", "Holi", "Baisakhi", "Pongal"],
+  },
+  {
+    id: "gk310",
+    text: "Which planet is the hottest in the solar system?",
+    answers: ["Venus", "Mercury", "Mars", "Jupiter"],
+  },
+  {
+    id: "gk311",
+    text: "Which gas do fire extinguishers commonly use?",
+    answers: ["Carbon Dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+  },
+  {
+    id: "gk312",
+    text: "Which battle marked the beginning of British rule in India?",
+    answers: [
+      "Battle of Plassey",
+      "Battle of Buxar",
+      "Third Battle of Panipat",
+      "Battle of Haldighati",
+    ],
+  },
+  {
+    id: "gk313",
+    text: "Who discovered electricity?",
+    answers: [
+      "Benjamin Franklin",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Michael Faraday",
+    ],
+  },
+  {
+    id: "gk314",
+    text: "Which Indian state is known for Sikkimese culture?",
+    answers: ["Sikkim", "Arunachal Pradesh", "Meghalaya", "Nagaland"],
+  },
+  {
+    id: "gk315",
+    text: "Which bird is the largest in the world?",
+    answers: ["Ostrich", "Emu", "Albatross", "Peacock"],
+  },
+  {
+    id: "gk316",
+    text: "Who wrote 'The Guide'?",
+    answers: ["R. K. Narayan", "Mulk Raj Anand", "Vikram Seth", "Kiran Desai"],
+  },
+  {
+    id: "gk317",
+    text: "What does WWW stand for?",
+    answers: [
+      "World Wide Web",
+      "World Web Window",
+      "Web World Wide",
+      "Wide Web World",
+    ],
+  },
+  {
+    id: "gk318",
+    text: "Which city is called the 'Gateway of India'?",
+    answers: ["Mumbai", "Chennai", "Delhi", "Kolkata"],
+  },
+  {
+    id: "gk319",
+    text: "Which is the second largest planet in our solar system?",
+    answers: ["Saturn", "Jupiter", "Neptune", "Earth"],
+  },
+  {
+    id: "gk320",
+    text: "Who is the author of 'A Brief History of Time'?",
+    answers: [
+      "Stephen Hawking",
+      "Carl Sagan",
+      "Neil deGrasse Tyson",
+      "Brian Cox",
+    ],
+  },
+  {
+    id: "gk321",
+    text: "What is the most widely spoken language in the world?",
+    answers: ["Mandarin Chinese", "English", "Hindi", "Spanish"],
+  },
+  {
+    id: "gk322",
+    text: "Which Indian city is known for diamond cutting and polishing?",
+    answers: ["Surat", "Mumbai", "Jaipur", "Ahmedabad"],
+  },
+  {
+    id: "gk323",
+    text: "Which vitamin is essential for calcium absorption?",
+    answers: ["Vitamin D", "Vitamin A", "Vitamin K", "Vitamin B12"],
+  },
+  {
+    id: "gk324",
+    text: "Which is the national reptile of India?",
+    answers: ["King Cobra", "Python", "Monitor Lizard", "Crocodile"],
+  },
+  {
+    id: "gk325",
+    text: "What is the currency of Russia?",
+    answers: ["Ruble", "Euro", "Dollar", "Krona"],
+  },
+  {
+    id: "gk326",
+    text: "Which layer of the Earth do we live on?",
+    answers: ["Crust", "Mantle", "Core", "Lithosphere"],
+  },
+  {
+    id: "gk327",
+    text: "Which country is known for its fjords?",
+    answers: ["Norway", "Sweden", "Denmark", "Iceland"],
+  },
+  {
+    id: "gk328",
+    text: "Who is considered the father of geometry?",
+    answers: ["Euclid", "Pythagoras", "Archimedes", "Aristotle"],
+  },
+  {
+    id: "gk329",
+    text: "Which is the most abundant metal in Earth's crust?",
+    answers: ["Aluminum", "Iron", "Copper", "Zinc"],
+  },
+  {
+    id: "gk330",
+    text: "What is the name of the Indian Parliament’s lower house?",
+    answers: ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Sansad"],
+  },
+  {
+    id: "gk331",
+    text: "What is the speed of light in a vacuum?",
+    answers: ["299,792 km/s", "150,000 km/s", "1,000,000 km/s", "3,000 km/s"],
+  },
+  {
+    id: "gk332",
+    text: "Which Indian city is the headquarters of ISRO?",
+    answers: ["Bangalore", "Hyderabad", "Chennai", "Pune"],
+  },
+  {
+    id: "gk333",
+    text: "Which planet is known as Earth’s twin?",
+    answers: ["Venus", "Mars", "Jupiter", "Mercury"],
+  },
+  {
+    id: "gk334",
+    text: "What is the chemical symbol of silver?",
+    answers: ["Ag", "Au", "Si", "Sr"],
+  },
+  {
+    id: "gk335",
+    text: "Which is the longest-serving Prime Minister of India?",
+    answers: [
+      "Jawaharlal Nehru",
+      "Indira Gandhi",
+      "Narendra Modi",
+      "Manmohan Singh",
+    ],
+  },
+  {
+    id: "gk336",
+    text: "What is the full form of URL?",
+    answers: [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Uniform Referencing Line",
+      "Unified Resource Label",
+    ],
+  },
+  {
+    id: "gk337",
+    text: "What is the capital of Norway?",
+    answers: ["Oslo", "Stockholm", "Copenhagen", "Helsinki"],
+  },
+  {
+    id: "gk338",
+    text: "Who invented the light bulb?",
+    answers: [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Alexander Bell",
+    ],
+  },
+  {
+    id: "gk339",
+    text: "Which Indian state is famous for sandalwood?",
+    answers: ["Karnataka", "Kerala", "Tamil Nadu", "Odisha"],
+  },
+  {
+    id: "gk340",
+    text: "Which continent has the highest population?",
+    answers: ["Asia", "Africa", "Europe", "South America"],
+  },
+  {
+    id: "gk341",
+    text: "Who was the first female astronaut from India?",
+    answers: [
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Rakesh Sharma",
+      "Anuradha TK",
+    ],
+  },
+  {
+    id: "gk342",
+    text: "Which acid is found in lemons?",
+    answers: ["Citric Acid", "Lactic Acid", "Acetic Acid", "Sulfuric Acid"],
+  },
+  {
+    id: "gk343",
+    text: "Which country is famous for the Eiffel Tower?",
+    answers: ["France", "Italy", "Germany", "Spain"],
+  },
+  {
+    id: "gk344",
+    text: "Which Indian festival marks the end of Ramadan?",
+    answers: ["Eid-ul-Fitr", "Bakrid", "Muharram", "Ram Navami"],
+  },
+  {
+    id: "gk345",
+    text: "Which instrument measures temperature?",
+    answers: ["Thermometer", "Barometer", "Hygrometer", "Seismograph"],
+  },
+  {
+    id: "gk346",
+    text: "What is the capital of Sri Lanka?",
+    answers: ["Colombo", "Kandy", "Jaffna", "Galle"],
+  },
+  {
+    id: "gk347",
+    text: "Who is known for the law of gravitation?",
+    answers: ["Isaac Newton", "Galileo", "Einstein", "Faraday"],
+  },
+  {
+    id: "gk348",
+    text: "Which Indian classical dance originated in Tamil Nadu?",
+    answers: ["Bharatanatyam", "Kathak", "Odissi", "Kuchipudi"],
+  },
+  {
+    id: "gk349",
+    text: "Which is the national game of the USA?",
+    answers: ["Baseball", "Basketball", "Football", "Ice Hockey"],
+  },
+  {
+    id: "gk350",
+    text: "Which is the oldest university in India?",
+    answers: [
+      "Nalanda University",
+      "Banaras Hindu University",
+      "University of Calcutta",
+      "University of Delhi",
+    ],
+  },
+  {
+    id: "gk351",
+    text: "Which Indian city is known as the 'City of Temples'?",
+    answers: ["Bhubaneswar", "Varanasi", "Madurai", "Haridwar"],
+  },
+  {
+    id: "gk352",
+    text: "Who wrote the famous book 'The Origin of Species'?",
+    answers: [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Isaac Newton",
+      "Stephen Hawking",
+    ],
+  },
+  {
+    id: "gk353",
+    text: "Which country is the largest producer of coffee?",
+    answers: ["Brazil", "India", "Vietnam", "Colombia"],
+  },
+  {
+    id: "gk354",
+    text: "Which bird lays the largest eggs?",
+    answers: ["Ostrich", "Eagle", "Peacock", "Duck"],
+  },
+  {
+    id: "gk355",
+    text: "Which Indian city is associated with the IT industry and called 'Cyberabad'?",
+    answers: ["Hyderabad", "Bangalore", "Pune", "Chennai"],
+  },
+  {
+    id: "gk356",
+    text: "What is the main function of red blood cells?",
+    answers: [
+      "Carry oxygen",
+      "Fight infection",
+      "Clot blood",
+      "Transport nutrients",
+    ],
+  },
+  {
+    id: "gk357",
+    text: "What is the smallest even prime number?",
+    answers: ["2", "0", "4", "6"],
+  },
+  {
+    id: "gk358",
+    text: "Who was the first woman to receive the Bharat Ratna?",
+    answers: [
+      "Indira Gandhi",
+      "Mother Teresa",
+      "Sarojini Naidu",
+      "Lata Mangeshkar",
+    ],
+  },
+  {
+    id: "gk359",
+    text: "Which city is home to the Great Pyramid of Giza?",
+    answers: ["Cairo", "Alexandria", "Luxor", "Giza"],
+  },
+  {
+    id: "gk360",
+    text: "Which Indian state is the largest producer of rice?",
+    answers: ["West Bengal", "Punjab", "Andhra Pradesh", "Uttar Pradesh"],
+  },
+  {
+    id: "gk361",
+    text: "Which was the first Indian film to win an Oscar?",
+    answers: [
+      "The Elephant Whisperers",
+      "Lagaan",
+      "Mother India",
+      "Slumdog Millionaire",
+    ],
+  },
+  {
+    id: "gk362",
+    text: "Which Indian festival is also called the 'Festival of Spring'?",
+    answers: ["Holi", "Baisakhi", "Vasant Panchami", "Onam"],
+  },
+  {
+    id: "gk363",
+    text: "Which is the coldest place in India?",
+    answers: ["Dras", "Leh", "Srinagar", "Kargil"],
+  },
+  {
+    id: "gk364",
+    text: "Which city is called the 'Manchester of India'?",
+    answers: ["Ahmedabad", "Surat", "Ludhiana", "Kanpur"],
+  },
+  {
+    id: "gk365",
+    text: "Which river originates from Amarkantak Plateau?",
+    answers: ["Narmada", "Tapi", "Godavari", "Mahanadi"],
+  },
+  {
+    id: "gk366",
+    text: "What is the smallest planet in our solar system?",
+    answers: ["Mercury", "Mars", "Venus", "Pluto"],
+  },
+  {
+    id: "gk367",
+    text: "Which freedom fighter is known as the Iron Man of India?",
+    answers: [
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose",
+      "Bal Gangadhar Tilak",
+      "Bhagat Singh",
+    ],
+  },
+  {
+    id: "gk368",
+    text: "Which Indian state has the largest forest cover?",
+    answers: ["Madhya Pradesh", "Arunachal Pradesh", "Chhattisgarh", "Odisha"],
+  },
+  {
+    id: "gk369",
+    text: "Which organ of the human body produces insulin?",
+    answers: ["Pancreas", "Liver", "Kidney", "Stomach"],
+  },
+  {
+    id: "gk370",
+    text: "Which scientist is known as the father of genetics?",
+    answers: ["Gregor Mendel", "Charles Darwin", "Watson", "Crick"],
+  },
+  {
+    id: "gk371",
+    text: "Who painted 'The Starry Night'?",
+    answers: [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet",
+    ],
+  },
+  {
+    id: "gk372",
+    text: "What is the capital of Bangladesh?",
+    answers: ["Dhaka", "Chittagong", "Khulna", "Sylhet"],
+  },
+  {
+    id: "gk373",
+    text: "Which Indian river flows westward into the Arabian Sea?",
+    answers: ["Narmada", "Ganga", "Yamuna", "Godavari"],
+  },
+  {
+    id: "gk374",
+    text: "Who is the founder of Facebook?",
+    answers: ["Mark Zuckerberg", "Elon Musk", "Jeff Bezos", "Larry Page"],
+  },
+  {
+    id: "gk375",
+    text: "Which vitamin is known as ascorbic acid?",
+    answers: ["Vitamin C", "Vitamin A", "Vitamin B12", "Vitamin D"],
+  },
+  {
+    id: "gk376",
+    text: "Which was the first Indian satellite?",
+    answers: ["Aryabhata", "INSAT-1A", "Bhaskara", "Chandrayaan-1"],
+  },
+  {
+    id: "gk377",
+    text: "Which device is used to see distant objects?",
+    answers: ["Telescope", "Microscope", "Periscope", "Binoculars"],
+  },
+  {
+    id: "gk378",
+    text: "Who was the first woman governor of an Indian state?",
+    answers: [
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Sucheta Kriplani",
+      "Vijaya Lakshmi Pandit",
+    ],
+  },
+  {
+    id: "gk379",
+    text: "Which crop is known as 'Golden Fiber'?",
+    answers: ["Jute", "Wheat", "Rice", "Cotton"],
+  },
+  {
+    id: "gk380",
+    text: "Which is the longest dam in India?",
+    answers: [
+      "Hirakud Dam",
+      "Bhakra Nangal",
+      "Tehri Dam",
+      "Sardar Sarovar Dam",
+    ],
+  },
+  {
+    id: "gk381",
+    text: "Which vitamin helps in wound healing?",
+    answers: ["Vitamin C", "Vitamin A", "Vitamin D", "Vitamin E"],
+  },
+  {
+    id: "gk382",
+    text: "Which Indian state is famous for Sunderbans?",
+    answers: ["West Bengal", "Assam", "Odisha", "Tripura"],
+  },
+  {
+    id: "gk383",
+    text: "Which is the lightest element in the periodic table?",
+    answers: ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+  },
+  {
+    id: "gk384",
+    text: "What is the normal human body temperature in Celsius?",
+    answers: ["37°C", "36°C", "38°C", "35°C"],
+  },
+  {
+    id: "gk385",
+    text: "Which Indian city has the highest population?",
+    answers: ["Mumbai", "Delhi", "Bangalore", "Kolkata"],
+  },
+  {
+    id: "gk386",
+    text: "Which freedom fighter founded the Indian Home Rule League?",
+    answers: ["Bal Gangadhar Tilak", "Gandhi", "Bose", "Sardar Patel"],
+  },
+  {
+    id: "gk387",
+    text: "Which animal is known for changing colors?",
+    answers: ["Chameleon", "Octopus", "Peacock", "Frog"],
+  },
+  {
+    id: "gk388",
+    text: "Which Indian city is the capital of Jharkhand?",
+    answers: ["Ranchi", "Jamshedpur", "Dhanbad", "Bokaro"],
+  },
+  {
+    id: "gk389",
+    text: "Which river is sacred in Sikhism?",
+    answers: ["Beas", "Ganga", "Yamuna", "Saraswati"],
+  },
+  {
+    id: "gk390",
+    text: "Who is the author of 'Discovery of India'?",
+    answers: ["Jawaharlal Nehru", "Ambedkar", "Gandhi", "Radhakrishnan"],
+  },
+  {
+    id: "gk391",
+    text: "Which part of the plant absorbs water?",
+    answers: ["Roots", "Leaves", "Stem", "Flower"],
+  },
+  {
+    id: "gk392",
+    text: "Which Indian city is known for Banarasi sarees?",
+    answers: ["Varanasi", "Surat", "Jaipur", "Kanchipuram"],
+  },
+  {
+    id: "gk393",
+    text: "Which festival is dedicated to snakes in India?",
+    answers: ["Nag Panchami", "Raksha Bandhan", "Lohri", "Navratri"],
+  },
+  {
+    id: "gk394",
+    text: "Which metal is most abundant in the human body?",
+    answers: ["Calcium", "Iron", "Zinc", "Magnesium"],
+  },
+  {
+    id: "gk395",
+    text: "Which is the only planet that rotates clockwise?",
+    answers: ["Venus", "Mercury", "Mars", "Uranus"],
+  },
+  {
+    id: "gk396",
+    text: "Who was the first female IPS officer in India?",
+    answers: [
+      "Kiran Bedi",
+      "R. B. Sreekumar",
+      "Anna Rajam Malhotra",
+      "Vinita Thakur",
+    ],
+  },
+  {
+    id: "gk397",
+    text: "Which part of the body controls balance?",
+    answers: ["Ear", "Nose", "Spine", "Tongue"],
+  },
+  {
+    id: "gk398",
+    text: "What is the shape of the Earth?",
+    answers: ["Oblate spheroid", "Perfect sphere", "Flat", "Cylinder"],
+  },
+  {
+    id: "gk399",
+    text: "Which country is known for Mount Fuji?",
+    answers: ["Japan", "China", "South Korea", "Nepal"],
+  },
+  {
+    id: "gk400",
+    text: "Which part of a plant makes seeds?",
+    answers: ["Flower", "Leaf", "Stem", "Root"],
+  },
+  {
+    id: "gk401",
+    text: "Which Indian leader is known as 'Lokmanya'?",
+    answers: [
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji",
+      "Lala Lajpat Rai",
+    ],
+  },
+  {
+    id: "gk402",
+    text: "Which organ in the human body is responsible for pumping blood?",
+    answers: ["Heart", "Lungs", "Liver", "Kidney"],
+  },
+  {
+    id: "gk403",
+    text: "Which ocean is the deepest in the world?",
+    answers: [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+    ],
+  },
+  {
+    id: "gk404",
+    text: "Who discovered the circulation of blood?",
+    answers: [
+      "William Harvey",
+      "Louis Pasteur",
+      "Andreas Vesalius",
+      "Joseph Lister",
+    ],
+  },
+  {
+    id: "gk405",
+    text: "What is the main source of energy for Earth?",
+    answers: ["Sun", "Wind", "Coal", "Water"],
+  },
+  {
+    id: "gk406",
+    text: "Which Indian state is the largest producer of wheat?",
+    answers: ["Uttar Pradesh", "Punjab", "Haryana", "Madhya Pradesh"],
+  },
+  {
+    id: "gk407",
+    text: "Which dance form originated in Andhra Pradesh?",
+    answers: ["Kuchipudi", "Bharatanatyam", "Kathak", "Odissi"],
+  },
+  {
+    id: "gk408",
+    text: "Which Indian city is known for the Sun Temple?",
+    answers: ["Konark", "Bhubaneswar", "Puri", "Madurai"],
+  },
+  {
+    id: "gk409",
+    text: "Which part of the eye controls the amount of light entering?",
+    answers: ["Pupil", "Iris", "Lens", "Retina"],
+  },
+  {
+    id: "gk410",
+    text: "What is the capital of Switzerland?",
+    answers: ["Bern", "Zurich", "Geneva", "Lucerne"],
+  },
+  {
+    id: "gk411",
+    text: "Which gas do animals exhale during respiration?",
+    answers: ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+  },
+  {
+    id: "gk412",
+    text: "Which Indian leader coined the slogan 'Jai Jawan Jai Kisan'?",
+    answers: [
+      "Lal Bahadur Shastri",
+      "Nehru",
+      "Indira Gandhi",
+      "Subhas Chandra Bose",
+    ],
+  },
+  {
+    id: "gk413",
+    text: "Which Indian city is called the 'Orange City'?",
+    answers: ["Nagpur", "Nashik", "Pune", "Bhopal"],
+  },
+  {
+    id: "gk414",
+    text: "What is the boiling point of water in Fahrenheit?",
+    answers: ["212°F", "100°F", "180°F", "250°F"],
+  },
+  {
+    id: "gk415",
+    text: "Which river flows through the Grand Canyon?",
+    answers: [
+      "Colorado River",
+      "Mississippi River",
+      "Missouri River",
+      "Yukon River",
+    ],
+  },
+  {
+    id: "gk416",
+    text: "What is the full form of ATM?",
+    answers: [
+      "Automated Teller Machine",
+      "Automatic Transaction Machine",
+      "All Time Money",
+      "Automated Token Machine",
+    ],
+  },
+  {
+    id: "gk417",
+    text: "What is the tallest mountain in Africa?",
+    answers: [
+      "Mount Kilimanjaro",
+      "Mount Kenya",
+      "Mount Elgon",
+      "Simien Mountains",
+    ],
+  },
+  {
+    id: "gk418",
+    text: "Who wrote the novel 'The Alchemist'?",
+    answers: ["Paulo Coelho", "Dan Brown", "J. K. Rowling", "Chetan Bhagat"],
+  },
+  {
+    id: "gk419",
+    text: "Which musical instrument has black and white keys?",
+    answers: ["Piano", "Guitar", "Drums", "Violin"],
+  },
+  {
+    id: "gk420",
+    text: "Which part of the plant performs photosynthesis?",
+    answers: ["Leaves", "Roots", "Flowers", "Stem"],
+  },
+  {
+    id: "gk421",
+    text: "Which Mughal emperor had the court of 'Navaratnas'?",
+    answers: ["Akbar", "Shah Jahan", "Aurangzeb", "Babur"],
+  },
+  {
+    id: "gk422",
+    text: "Which Indian city is located on the banks of the Hooghly River?",
+    answers: ["Kolkata", "Chennai", "Mumbai", "Hyderabad"],
+  },
+  {
+    id: "gk423",
+    text: "What is the unit of electric current?",
+    answers: ["Ampere", "Volt", "Ohm", "Watt"],
+  },
+  {
+    id: "gk424",
+    text: "Which gas is responsible for the greenhouse effect?",
+    answers: ["Carbon Dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+  },
+  {
+    id: "gk425",
+    text: "What is the hardest naturally occurring substance?",
+    answers: ["Diamond", "Gold", "Iron", "Granite"],
+  },
+  {
+    id: "gk426",
+    text: "What is the name of India's first nuclear test?",
+    answers: ["Smiling Buddha", "Pokhran-II", "Agni", "Shakti"],
+  },
+  {
+    id: "gk427",
+    text: "Which is the largest three-digit number?",
+    answers: ["999", "1000", "998", "900"],
+  },
+  {
+    id: "gk428",
+    text: "Who built the Qutub Minar?",
+    answers: [
+      "Qutb-ud-din Aibak",
+      "Alauddin Khilji",
+      "Shah Jahan",
+      "Iltutmish",
+    ],
+  },
+  {
+    id: "gk429",
+    text: "What is the function of the kidneys?",
+    answers: [
+      "Filter waste from blood",
+      "Pump blood",
+      "Produce enzymes",
+      "Aid digestion",
+    ],
+  },
+  {
+    id: "gk430",
+    text: "Which Indian festival celebrates brother-sister bonding?",
+    answers: ["Raksha Bandhan", "Bhai Dooj", "Holi", "Diwali"],
+  },
+  {
+    id: "gk431",
+    text: "Who invented the telephone?",
+    answers: ["Alexander Graham Bell", "Edison", "Tesla", "Newton"],
+  },
+  {
+    id: "gk432",
+    text: "Which is the longest river in South America?",
+    answers: ["Amazon", "Paraná", "Orinoco", "Madeira"],
+  },
+  {
+    id: "gk433",
+    text: "Who gave the slogan 'Inquilab Zindabad'?",
+    answers: ["Bhagat Singh", "Gandhi", "Sukhdev", "Tilak"],
+  },
+  {
+    id: "gk434",
+    text: "Which country is known for pyramids and pharaohs?",
+    answers: ["Egypt", "Greece", "Mexico", "China"],
+  },
+  {
+    id: "gk435",
+    text: "What is the square root of 81?",
+    answers: ["9", "8", "7", "6"],
+  },
+  {
+    id: "gk436",
+    text: "Which Indian classical dance form originated in Odisha?",
+    answers: ["Odissi", "Kathak", "Bharatanatyam", "Manipuri"],
+  },
+  {
+    id: "gk437",
+    text: "Which famous Indian author wrote 'Malgudi Days'?",
+    answers: ["R. K. Narayan", "Chetan Bhagat", "Premchand", "Khushwant Singh"],
+  },
+  {
+    id: "gk438",
+    text: "Which is the largest freshwater lake in India?",
+    answers: ["Wular Lake", "Chilika Lake", "Loktak Lake", "Dal Lake"],
+  },
+  {
+    id: "gk439",
+    text: "Which continent has no permanent residents?",
+    answers: ["Antarctica", "Australia", "Africa", "Europe"],
+  },
+  {
+    id: "gk440",
+    text: "What is the name of India’s first female president?",
+    answers: [
+      "Pratibha Patil",
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Sushma Swaraj",
+    ],
+  },
+  {
+    id: "gk441",
+    text: "Which is the largest animal on Earth?",
+    answers: ["Blue Whale", "Elephant", "Giraffe", "Rhino"],
+  },
+  {
+    id: "gk442",
+    text: "Who discovered penicillin?",
+    answers: [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Joseph Lister",
+    ],
+  },
+  {
+    id: "gk443",
+    text: "Which color has the shortest wavelength?",
+    answers: ["Violet", "Red", "Blue", "Green"],
+  },
+  {
+    id: "gk444",
+    text: "Which Indian state is famous for Kathak dance?",
+    answers: ["Uttar Pradesh", "Tamil Nadu", "Odisha", "Kerala"],
+  },
+  {
+    id: "gk445",
+    text: "Which part of the brain is responsible for intelligence?",
+    answers: ["Cerebrum", "Cerebellum", "Medulla", "Spinal cord"],
+  },
+  {
+    id: "gk446",
+    text: "Which vitamin helps in blood clotting?",
+    answers: ["Vitamin K", "Vitamin A", "Vitamin D", "Vitamin C"],
+  },
+  {
+    id: "gk447",
+    text: "Which city is known as the 'Cleanest City of India'?",
+    answers: ["Indore", "Bhopal", "Chandigarh", "Surat"],
+  },
+  {
+    id: "gk448",
+    text: "Which gas is filled in balloons to make them float?",
+    answers: ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+  },
+  {
+    id: "gk449",
+    text: "What is the unit of sound?",
+    answers: ["Decibel", "Hertz", "Pascal", "Watt"],
+  },
+  {
+    id: "gk450",
+    text: "Which Indian state is famous for backwaters?",
+    answers: ["Kerala", "Tamil Nadu", "Goa", "Andhra Pradesh"],
+  },
+  {
+    id: "gk451",
+    text: "Which river is known as the 'Lifeline of Egypt'?",
+    answers: ["Nile", "Amazon", "Danube", "Yangtze"],
+  },
+  {
+    id: "gk452",
+    text: "Which Indian leader wrote 'Hind Swaraj'?",
+    answers: [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "B. R. Ambedkar",
+      "Bal Gangadhar Tilak",
+    ],
+  },
+  {
+    id: "gk453",
+    text: "Which gas is used in refrigerators?",
+    answers: ["Freon", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+  },
+  {
+    id: "gk454",
+    text: "Which planet has the Great Red Spot?",
+    answers: ["Jupiter", "Saturn", "Mars", "Neptune"],
+  },
+  {
+    id: "gk455",
+    text: "Which Indian city is famous for Pashmina shawls?",
+    answers: ["Srinagar", "Amritsar", "Shimla", "Manali"],
+  },
+  {
+    id: "gk456",
+    text: "Which mineral is essential for bone health?",
+    answers: ["Calcium", "Iron", "Zinc", "Magnesium"],
+  },
+  {
+    id: "gk457",
+    text: "Which Indian festival is celebrated by flying kites?",
+    answers: ["Makar Sankranti", "Diwali", "Holi", "Dussehra"],
+  },
+  {
+    id: "gk458",
+    text: "Which state is the largest producer of sugarcane in India?",
+    answers: ["Uttar Pradesh", "Maharashtra", "Tamil Nadu", "Bihar"],
+  },
+  {
+    id: "gk459",
+    text: "Who was the last Viceroy of British India?",
+    answers: [
+      "Lord Mountbatten",
+      "Lord Curzon",
+      "Lord Linlithgow",
+      "Lord Wellesley",
+    ],
+  },
+  {
+    id: "gk460",
+    text: "What is the national aquatic animal of India?",
+    answers: ["River Dolphin", "Sea Turtle", "Blue Whale", "Otter"],
+  },
+  {
+    id: "gk461",
+    text: "What is the capital of Bhutan?",
+    answers: ["Thimphu", "Kathmandu", "Dhaka", "Colombo"],
+  },
+  {
+    id: "gk462",
+    text: "Which Indian monument is also known as the 'Symbol of Love'?",
+    answers: ["Taj Mahal", "Charminar", "India Gate", "Red Fort"],
+  },
+  {
+    id: "gk463",
+    text: "What is the freezing point of water in Kelvin?",
+    answers: ["273.15 K", "100 K", "0 K", "200 K"],
+  },
+  {
+    id: "gk464",
+    text: "Which state is the largest coal producer in India?",
+    answers: ["Jharkhand", "Odisha", "Chhattisgarh", "West Bengal"],
+  },
+  {
+    id: "gk465",
+    text: "What does the ozone layer protect us from?",
+    answers: [
+      "Ultraviolet Rays",
+      "Infrared Rays",
+      "Microwaves",
+      "Visible Light",
+    ],
+  },
+  {
+    id: "gk466",
+    text: "Which planet is tilted on its side?",
+    answers: ["Uranus", "Venus", "Saturn", "Earth"],
+  },
+  {
+    id: "gk467",
+    text: "Which vitamin is mainly obtained from sunlight?",
+    answers: ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin K"],
+  },
+  {
+    id: "gk468",
+    text: "Who was the first woman to climb Mount Everest?",
+    answers: ["Junko Tabei", "Bachendri Pal", "Arunima Sinha", "Santosh Yadav"],
+  },
+  {
+    id: "gk469",
+    text: "Which gas is used in fire extinguishers?",
+    answers: ["Carbon Dioxide", "Oxygen", "Hydrogen", "Methane"],
+  },
+  {
+    id: "gk470",
+    text: "Which Indian state has the highest number of wildlife sanctuaries?",
+    answers: ["Madhya Pradesh", "Karnataka", "Kerala", "Assam"],
+  },
+  {
+    id: "gk471",
+    text: "What is the process of water changing into vapor called?",
+    answers: ["Evaporation", "Condensation", "Precipitation", "Sublimation"],
+  },
+  {
+    id: "gk472",
+    text: "Which country is known as the 'Land of the Midnight Sun'?",
+    answers: ["Norway", "Sweden", "Russia", "Canada"],
+  },
+  {
+    id: "gk473",
+    text: "What is the chemical formula of salt?",
+    answers: ["NaCl", "KCl", "CaCl2", "MgCl2"],
+  },
+  {
+    id: "gk474",
+    text: "Which Indian leader initiated the 'Chipko Movement'?",
+    answers: [
+      "Sunderlal Bahuguna",
+      "Medha Patkar",
+      "Anna Hazare",
+      "Vinoba Bhave",
+    ],
+  },
+  {
+    id: "gk475",
+    text: "Which famous scientist developed the laws of motion?",
+    answers: [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Stephen Hawking",
+    ],
+  },
+  {
+    id: "gk476",
+    text: "Which Indian city is known as the 'City of Joy'?",
+    answers: ["Kolkata", "Mumbai", "Delhi", "Chennai"],
+  },
+  {
+    id: "gk477",
+    text: "Which freedom fighter is known as 'Shaheed-e-Azam'?",
+    answers: ["Bhagat Singh", "Sukhdev", "Rajguru", "Lala Lajpat Rai"],
+  },
+  {
+    id: "gk478",
+    text: "What is the capital of Germany?",
+    answers: ["Berlin", "Frankfurt", "Munich", "Hamburg"],
+  },
+  {
+    id: "gk479",
+    text: "What is the study of weather called?",
+    answers: ["Meteorology", "Geology", "Astrology", "Astronomy"],
+  },
+  {
+    id: "gk480",
+    text: "Which is the hottest planet in the solar system?",
+    answers: ["Venus", "Mercury", "Mars", "Jupiter"],
+  },
+  {
+    id: "gk481",
+    text: "What is the name of the largest rainforest in the world?",
+    answers: ["Amazon", "Congo", "Daintree", "Sundarbans"],
+  },
+  {
+    id: "gk482",
+    text: "Which continent is also a country?",
+    answers: ["Australia", "Africa", "Europe", "Antarctica"],
+  },
+  {
+    id: "gk483",
+    text: "What is the largest gland in the human body?",
+    answers: ["Liver", "Pancreas", "Thyroid", "Pituitary"],
+  },
+  {
+    id: "gk484",
+    text: "Which freedom fighter founded the 'Azad Hind Fauj'?",
+    answers: ["Subhas Chandra Bose", "Bhagat Singh", "Gandhi", "Tilak"],
+  },
+  {
+    id: "gk485",
+    text: "Which dance form is native to Manipur?",
+    answers: ["Manipuri", "Bharatanatyam", "Kathakali", "Sattriya"],
+  },
+  {
+    id: "gk486",
+    text: "Which is the largest bone in the human body?",
+    answers: ["Femur", "Tibia", "Humerus", "Pelvis"],
+  },
+  {
+    id: "gk487",
+    text: "Which place is known as the 'Land of Rising Sun'?",
+    answers: ["Japan", "China", "South Korea", "Thailand"],
+  },
+  {
+    id: "gk488",
+    text: "Which city hosted the Olympic Games in 2021?",
+    answers: ["Tokyo", "Rio", "London", "Paris"],
+  },
+  {
+    id: "gk489",
+    text: "Which river flows through Delhi?",
+    answers: ["Yamuna", "Ganga", "Sutlej", "Beas"],
+  },
+  {
+    id: "gk490",
+    text: "Which part of the plant absorbs water from the soil?",
+    answers: ["Roots", "Leaves", "Stems", "Flowers"],
+  },
+  {
+    id: "gk491",
+    text: "Which award is the highest civilian award in India?",
+    answers: [
+      "Bharat Ratna",
+      "Padma Vibhushan",
+      "Padma Bhushan",
+      "Ashoka Chakra",
+    ],
+  },
+  {
+    id: "gk492",
+    text: "Which country shares the longest border with India?",
+    answers: ["Bangladesh", "China", "Pakistan", "Nepal"],
+  },
+  {
+    id: "gk493",
+    text: "Which is the southernmost point of India?",
+    answers: ["Indira Point", "Kanyakumari", "Rameswaram", "Minicoy"],
+  },
+  {
+    id: "gk494",
+    text: "Which planet is known as the 'Blue Planet'?",
+    answers: ["Earth", "Neptune", "Uranus", "Venus"],
+  },
+  {
+    id: "gk495",
+    text: "What is the most common gas in Earth's atmosphere?",
+    answers: ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+  },
+  {
+    id: "gk496",
+    text: "Which country invented paper?",
+    answers: ["China", "India", "Egypt", "Greece"],
+  },
+  {
+    id: "gk497",
+    text: "What is the name of the first man-made satellite?",
+    answers: ["Sputnik 1", "Explorer 1", "Aryabhata", "Luna 2"],
+  },
+  {
+    id: "gk498",
+    text: "Which sport is associated with the Davis Cup?",
+    answers: ["Tennis", "Cricket", "Football", "Hockey"],
+  },
+  {
+    id: "gk499",
+    text: "Which organ is affected by Hepatitis?",
+    answers: ["Liver", "Kidney", "Lungs", "Heart"],
+  },
+  {
+    id: "gk500",
+    text: "What is the chemical formula for carbon dioxide?",
+    answers: ["CO2", "CO", "C2O", "OC2"],
+  },
 ];
