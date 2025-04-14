@@ -3,7 +3,7 @@ export default function Header() {
   return (
     <header>
       <img src={logoImg} alt="Quiz logo" />
-      <h1>Quiz App</h1>
+      <h1>Quiz Yatra</h1>
     </header>
   );
 }
