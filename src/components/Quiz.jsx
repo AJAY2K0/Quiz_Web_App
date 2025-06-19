@@ -21,7 +21,6 @@ export default function Quiz() {
     setQuestionCount(count);
     questionSet.current = getRandomQuestions(Questions, count);
   }
-  console.log(questionSet.current);
 
   function handleRestart() {
     setUserAnswers([]);
