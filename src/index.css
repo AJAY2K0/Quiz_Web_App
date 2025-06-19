@@ -49,31 +49,6 @@ header h1 {
   -webkit-text-fill-color: transparent;
 }
 
-#last-try {
-  max-width: 40rem;
-  margin: 2rem auto;
-  font-size: 0.8rem;
-  font-family: "Roboto Condensed", sans-serif;
-  text-align: center;
-}
-
-#last-try h2 {
-  margin: 0;
-  font-size: 1rem;
-  color: #9c7fd3;
-  text-transform: uppercase;
-}
-
-#last-try ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  gap: 1rem;
-  font-size: 1.25rem;
-  color: #a690c5;
-}
-
 #quiz {
   max-width: 50rem;
   margin: auto;
